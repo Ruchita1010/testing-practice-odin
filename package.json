@@ -1,0 +1,16 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "practicing basics of 'testing' as part of TheOdinProject",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "author": "Ruchita",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^29.3.1"
+  }
+}
